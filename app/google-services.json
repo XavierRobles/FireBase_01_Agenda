@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "273344062371",
+    "firebase_url": "https://fir-01-agenda-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-01-agenda",
+    "storage_bucket": "fir-01-agenda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273344062371:android:dd2dd6de0c5d4eb7423016",
+        "android_client_info": {
+          "package_name": "com.xavi.firebase_01_agenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273344062371-7i0u9ibac92cvt0gui477jbhn0o8uot7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBIau6HKcXadeCBdZvLPEf1WjeXYc68BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273344062371-7i0u9ibac92cvt0gui477jbhn0o8uot7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
